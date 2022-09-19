@@ -1,0 +1,19 @@
+BROKER 1
+2 
+C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\IP.txt 
+1 
+C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\PublisherIP.txt 
+2
+
+BROKER 2
+2
+C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\IP.txt
+2
+C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\PublisherIP.txt
+2
+
+PUBLISHER 1
+C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\busLines.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\busPositions.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\RouteCodes.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\PublisherIP.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\IP.txt 2 1
+
+PUBLISHER 2
+C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\busLines.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\busPositions.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\RouteCodes.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\PublisherIP.txt C:\Users\User\Desktop\DS_Part_2\app\src\main\assets\IP.txt 2 2
